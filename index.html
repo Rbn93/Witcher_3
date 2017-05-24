@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="description" content="The Witcher 3 Quest Database"/>
+        <meta name="keywords" content="Witcher 3, Witcher 3 Quest, Witcher 3 Quest List, Witcher 3 Quest Database"/>
+        <meta name="author" content="Rbn93"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>The Witcher 3 | Quest Database</title>
+        <link rel="shortcut icon" type="image/x-icon" href="imgs/witcher_icon.ico"/>
+        <link rel="stylesheet" href="styles/normalize.css"/>
+        <link rel="stylesheet" href="styles/main.css"/>
+        <script src="scripts/jquery/jquery-3.2.1.min.js"></script>
+        <script src="scripts/functions.js"></script>
+        <script src="scripts/main.js"></script>
+    </head>
+    <body>
+        <section id="main_section">
+            <header id="main_header">
+                <img src="imgs/witcher_3_logo.png" id="logo" alt="Witcher 3 Logo"/>
+                <h1>Welcome to The Witcher 3 Quest Database.</h1>
+            </header>
+            <div id="filter">
+                <label for="location_filter">Location:</label>
+                <select id="location_filter">
+                    <option value="*" selected>All</option>
+                    <option value="White Orchard">White Orchard</option>
+                    <option value="Vizima">Vizima</option>
+                    <option value="Velen">Velen</option>
+                    <option value="Novigrad">Novigrad</option>
+                    <option value="Oxenfurt">Oxenfurt</option>
+                    <option value="Skellige Islands">Skellige Islands</option>
+                    <option value="Kaer Morhen">Kaer Morhen</option>
+                </select>
+                <label for="type_filter">Type:</label>
+                <select id="type_filter">
+                    <option value="*" selected>All</option>
+                    <option value="Main Quest">Main Quest</option>
+                    <option value="Side Quest">Side Quest</option>
+                    <option value="Witcher Contract">Witcher Contract</option>
+                    <option value="Treasure Hunt">Treasure Hunt</option>
+                </select>
+                <label for="level_filter">Level:</label>
+                <input type="number" id="level_filter" min="0" max="48"/>
+                <button type="button" id="clear_level_filter">Clear</button>
+            </div>
+            <div id="quests">
+                <table id="quests_table">
+                    <thead>
+                        <tr>
+                            <th>Location</th>
+                            <th>Type</th>
+                            <th class="short">Level</th>
+                            <th class="long">Name</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <p class="info_text">Quests marked with (*) wont appear in quest log!</p>
+            </div>
+        </section>
+        <footer id="footer">
+            <div>
+                <address><span id="rbn93">@Rbn93: </span>ruben_cisneros_93@hotmail.com</address>
+            </div>
+        </footer>
+    </body>
+</html>

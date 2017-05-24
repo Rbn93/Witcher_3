@@ -1,0 +1,2679 @@
+
+    {
+
+        "0": {
+        
+            "location": "Kaer Morhen",
+            "type": "Main Quest",
+            "level": "None",
+            "name": "Kaer Morhen"
+            
+        },
+        
+        "1": {
+        
+            "location": "White Orchard",
+            "type": "Main Quest",
+            "level": "None",
+            "name": "Lilac and Gooseberries"
+            
+        },
+        
+        "2": {
+        
+            "location": "White Orchard",
+            "type": "Main Quest",
+            "level": 3,
+            "name": "The Beast of White Orchard"
+            
+        },
+        
+        "3": {
+        
+            "location": "White Orchard",
+            "type": "Main Quest",
+            "level": 2,
+            "name": "The Incident at White Orchard"
+            
+        },
+        
+        "4": {
+        
+            "location": "Vizima",
+            "type": "Main Quest",
+            "level": 2,
+            "name": "Imperial Audience"
+            
+        },
+        
+        "5": {
+    
+            "location": "Multiple",
+            "type": "Main Quest",
+            "level": "None",
+            "name": "In Ciri's Footsteps"
+        
+        },
+        
+        "6": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 5,
+            "name": "The Nilfgaardian Connection"
+            
+        },
+        
+        "7": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 6,
+            "name": "Bloody Baron"
+            
+        },
+        
+        "8": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 5,
+            "name": "Ciri's Story: The King of the Wolves"
+            
+        },
+        
+        "9": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 6,
+            "name": "Family Matters"
+            
+        },
+        
+        "10": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 5,
+            "name": "Princess in Distress"
+            
+        },
+        
+        "11": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 5,
+            "name": "Ciri's Story: The Race"
+            
+        },
+        
+        "12": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 5,
+            "name": "Out of the Shadows"
+            
+        },
+        
+        "13": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 5,
+            "name": "Hunting a Witch"
+            
+        },
+        
+        "14": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 6,
+            "name": "Wandering in the Dark"
+            
+        },
+        
+        "15": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 6,
+            "name": "Ladies of the Wood"
+            
+        },
+        
+        "16": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 5,
+            "name": "The Whispering Hillock"
+            
+        },
+        
+        "17": {
+        
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 5,
+            "name": "Ciri's Story: Fleeing the Bog"
+            
+        },
+        
+        "18": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 10,
+            "name": "Pyres of Novigrad"
+        
+        },
+        
+        "19": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 7,
+            "name": "Novigrad Dreaming"
+        
+        },
+        
+        "20": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 11,
+            "name": "Broken Flowers"
+        
+        },
+        
+        "21": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 12,
+            "name": "Get Junior"
+        
+        },
+        
+        "22": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 9,
+            "name": "Ciri's Story: Visiting Junior"
+        
+        },
+        
+        "23": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 12,
+            "name": "Count Reuven's Treasure"
+        
+        },
+        
+        "24": {
+    
+            "location": "Oxenfurt",
+            "type": "Main Quest",
+            "level": 9,
+            "name": "A Favor for Radovid"
+        
+        },
+        
+        "25": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 11,
+            "name": "The Play's the Thing"
+        
+        },
+        
+        "26": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 13,
+            "name": "A Poet Under Pressure"
+        
+        },
+        
+        "27": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 11,
+            "name": "Ciri's Story: Breakneck Speed"
+        
+        },
+        
+        "28": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 16,
+            "name": "Destination: Skellige"
+        
+        },
+        
+        "29": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 16,
+            "name": "The King is Dead. Long Live the King"
+        
+        },
+        
+        "30": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 17,
+            "name": "Echoes of the Past"
+        
+        },
+        
+        "31": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 15,
+            "name": "Missing Persons"
+        
+        },
+        
+        "32": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 14,
+            "name": "Nameless"
+        
+        },
+        
+        "33": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 14,
+            "name": "The Calm Before the Storm"
+        
+        },
+        
+        "34": {
+    
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 19,
+            "name": "Ugly Baby"
+        
+        },
+        
+        "35": {
+    
+            "location": "Kaer Morhen",
+            "type": "Main Quest",
+            "level": 19,
+            "name": "Disturbance"
+        
+        },
+        
+        "36": {
+    
+            "location": "Kaer Morhen",
+            "type": "Main Quest",
+            "level": 19,
+            "name": "To Bait a Forknail"
+        
+        },
+        
+        "37": {
+    
+            "location": "Kaer Morhen",
+            "type": "Main Quest",
+            "level": 19,
+            "name": "The Final Trial"
+        
+        },
+        
+        "38": {
+    
+            "location": "Kaer Morhen",
+            "type": "Main Quest",
+            "level": 19,
+            "name": "No Place Like Home"
+        
+        },
+        
+        "39": {
+    
+            "location": "Kaer Morhen",
+            "type": "Main Quest",
+            "level": 19,
+            "name": "Va Fail, Elaine"
+        
+        },
+        
+        "40": {
+    
+            "location": "Multiple",
+            "type": "Main Quest",
+            "level": 22,
+            "name": "Brother in Arms"
+        
+        },
+        
+        "41": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 22,
+            "name": "The Isle of Mists"
+        
+        },
+        
+        "42": {
+    
+            "location": "Kaer Morhen",
+            "type": "Main Quest",
+            "level": 24,
+            "name": "The Battle of Kaer Morhen"
+        
+        },
+        
+        "43": {
+    
+            "location": "Kaer Morhen",
+            "type": "Main Quest",
+            "level": 20,
+            "name": "Blood on the Battlefield"
+        
+        },
+        
+        "44": {
+    
+            "location": "Velen",
+            "type": "Main Quest",
+            "level": 26,
+            "name": "Bald Mountains"
+        
+        },
+        
+        "45": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": "None",
+            "name": "Final Preparations"
+        
+        },
+        
+        "46": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 28,
+            "name": "Blindingly Obvious"
+        
+        },
+        
+        "47": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 28,
+            "name": "The Great Escape"
+        
+        },
+        
+        "48": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 28,
+            "name": "Payback"
+        
+        },
+        
+        "49": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 26,
+            "name": "Through Time and Space"
+        
+        },
+        
+        "50": {
+    
+            "location": "Novigrad",
+            "type": "Main Quest",
+            "level": 28,
+            "name": "Battle Preparations"
+        
+        },
+        
+        "51": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 28,
+            "name": "The Sunstone"
+        
+        },
+        
+        "52": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 28,
+            "name": "Veni Vidi Vigo"
+        
+        },
+        
+        "53": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 31,
+            "name": "Child of the Elder Blood"
+        
+        },
+        
+        "54": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 28,
+            "name": "Skjall's Grave"
+        
+        },
+        
+        "55": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 30,
+            "name": "On Thin Ice"
+        
+        },
+        
+        "56": {
+    
+            "location": "Skellige Islands",
+            "type": "Main Quest",
+            "level": 30,
+            "name": "Tedd Deireadh, The Final Age"
+        
+        },
+        
+        "57": {
+    
+            "location": "Multiple",
+            "type": "Main Quest",
+            "level": 30,
+            "name": "Something Ends, Something Begins"
+        
+        },
+        
+        "58": {
+    
+            "location": "White Orchard",
+            "type": "Side Quest",
+            "level": 2,
+            "name": "On Death's Bed"
+        
+        },
+        
+        "59": {
+    
+            "location": "White Orchard",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Missing in Action"
+        
+        },
+        
+        "60": {
+    
+            "location": "White Orchard",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Precious Cargo"
+        
+        },
+        
+        "61": {
+    
+            "location": "White Orchard",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "A Frying Pan, Spick and Span"
+        
+        },
+        
+        "62": {
+    
+            "location": "White Orchard",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Twisted Firestarter"
+        
+        },
+        
+        "63": {
+    
+            "location": "White Orchard",
+            "type": "Side Quest",
+            "level": 30,
+            "name": "Faithful Friend"
+        
+        },
+        
+        "64": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 5,
+            "name": "Ciri's Room"
+        
+        },
+        
+        "65": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Deadly Crossing *"
+        
+        },
+        
+        "66": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 10,
+            "name": "Defender of the Faith"
+        
+        },
+        
+        "67": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Face Me If You Dare! *"
+        
+        },
+        
+        "68": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 7,
+            "name": "Forefathers' Eve"
+        
+        },
+        
+        "69": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Highway Robbery *"
+        
+        },
+        
+        "70": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 9,
+            "name": "Last Rites"
+        
+        },
+        
+        "71": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Looters *"
+        
+        },
+        
+        "72": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 24,
+            "name": "Master Armorers"
+        
+        },
+        
+        "73": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 7,
+            "name": "Wild at Heart"
+        
+        },
+        
+        "74": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Races: Crow's Perch"
+        
+        },
+        
+        "75": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 11,
+            "name": "Fists of Fury: Velen"
+        
+        },
+        
+        "76": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 6,
+            "name": "Fools' Gold"
+        
+        },
+        
+        "77": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Harassing a Troll *"
+        
+        },
+        
+        "78": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "At the Mercy of Strangers *"
+        
+        },
+        
+        "79": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 9,
+            "name": "Bitter Harvest"
+        
+        },
+        
+        "80": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Caravan Attack *"
+        
+        },
+        
+        "81": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 10,
+            "name": "Death By Fire"
+        
+        },
+        
+        "82": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Fake Papers"
+        
+        },
+        
+        "83": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 3,
+            "name": "Funeral Pyres"
+        
+        },
+        
+        "84": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Man's Best Friend *"
+        
+        },
+        
+        "85": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 7,
+            "name": "Thou Shalt Not Pass"
+        
+        },
+        
+        "86": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 13,
+            "name": "The Volunteer"
+        
+        },
+        
+        "87": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 6,
+            "name": "The Fall of the House of Reardon"
+        
+        },
+        
+        "88": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 6,
+            "name": "Ghosts of the Past"
+        
+        },
+        
+        "89": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Hazardous Goods"
+        
+        },
+        
+        "90": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 10,
+            "name": "Witcher Wannabe"
+        
+        },
+        
+        "91": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Truth Is in the Stars"
+        
+        },
+        
+        "92": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "Blood Ties"
+        
+        },
+        
+        "93": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 6,
+            "name": "An Invitation from Keira Metz"
+        
+        },
+        
+        "94": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 6,
+            "name": "A Towerful of Mice"
+        
+        },
+        
+        "95": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 6,
+            "name": "A Favor for a Friend"
+        
+        },
+        
+        "96": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 7,
+            "name": "Lynch Mob"
+        
+        },
+        
+        "97": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 10,
+            "name": "Love's Cruel Snares?"
+        
+        },
+        
+        "98": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 5,
+            "name": "A Dog's Life"
+        
+        },
+        
+        "99": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 8,
+            "name": "For the Advance of Learning"
+        
+        },
+        
+        "100": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Highwayman's Cache *"
+        
+        },
+        
+        "101": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 7,
+            "name": "A Greedy God"
+        
+        },
+        
+        "102": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 6,
+            "name": "Magic Lamp"
+        
+        },
+        
+        "103": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 25,
+            "name": "Where the Cat and Wolf Play"
+        
+        },
+        
+        "104": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 25,
+            "name": "Take What You Want"
+        
+        },
+        
+        "105": {
+    
+            "location": "Velen",
+            "type": "Side Quest",
+            "level": 9,
+            "name": "Return to Crookback Bog"
+        
+        },
+        
+        "106": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 2,
+            "name": "The Dwarven Document Dilemma"
+        
+        },
+        
+        "107": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 11,
+            "name": "Following the Thread"
+        
+        },
+        
+        "108": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Karmic Justice *"
+        
+        },
+        
+        "109": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 11,
+            "name": "Novigrad, Closed City I"
+        
+        },
+        
+        "110": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Novigrad, Closed City II"
+        
+        },
+        
+        "111": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Witch Hunter Raids *"
+        
+        },
+        
+        "112": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "Cabaret"
+        
+        },
+        
+        "113": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 16,
+            "name": "Carnal Sins"
+        
+        },
+        
+        "114": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "A Dangerous Game"
+        
+        },
+        
+        "115": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 20,
+            "name": "A Feast for Crowns"
+        
+        },
+        
+        "116": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "A Final Kindness"
+        
+        },
+        
+        "117": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Flame of Hatred *"
+        
+        },
+        
+        "118": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 9,
+            "name": "The Gangs of Novigrad"
+        
+        },
+        
+        "119": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 9,
+            "name": "Honor Among Thieves"
+        
+        },
+        
+        "120": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Message from an Old Friend"
+        
+        },
+        
+        "121": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 24,
+            "name": "Of Swords and Dumplings"
+        
+        },
+        
+        "122": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Racist of Novigrad *"
+        
+        },
+        
+        "123": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Suspicious Shakedown *"
+        
+        },
+        
+        "124": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "It Takes Three to Tango"
+        
+        },
+        
+        "125": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 7,
+            "name": "Haunted House"
+        
+        },
+        
+        "126": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 13,
+            "name": "Black Pearl"
+        
+        },
+        
+        "127": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "A Deadly Plot"
+        
+        },
+        
+        "128": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Drunken Rabble *"
+        
+        },
+        
+        "129": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 6,
+            "name": "Hey, You Wanna Look at My Stuff?"
+        
+        },
+        
+        "130": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Strumpet in Distress *"
+        
+        },
+        
+        "131": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "Out on Your Arse!"
+        
+        },
+        
+        "132": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 30,
+            "name": "Reason of State"
+        
+        },
+        
+        "133": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "A Walk on the Waterfront"
+        
+        },
+        
+        "134": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 13,
+            "name": "A Warehouse of Woe"
+        
+        },
+        
+        "135": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 23,
+            "name": "Fists of Fury: Novigrad"
+        
+        },
+        
+        "136": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 9,
+            "name": "Of Dairy and Darkness"
+        
+        },
+        
+        "137": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "Fencing Lessons"
+        
+        },
+        
+        "138": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 8,
+            "name": "Hidden Messages of the Nilfgaardian Kind"
+        
+        },
+        
+        "139": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "A Matter of Life and Death"
+        
+        },
+        
+        "140": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Never Trust Children *"
+        
+        },
+        
+        "141": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "Now or Never"
+        
+        },
+        
+        "142": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "The Nobleman Statuette"
+        
+        },
+        
+        "143": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "The Soldier Statuette"
+        
+        },
+        
+        "144": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 13,
+            "name": "A Tome Entombed"
+        
+        },
+        
+        "145": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 11,
+            "name": "A Barnful of Trouble"
+        
+        },
+        
+        "146": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Empty Coop"
+        
+        },
+        
+        "147": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "An Eye for an Eye"
+        
+        },
+        
+        "148": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 15,
+            "name": "Little Red"
+        
+        },
+        
+        "149": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 8,
+            "name": "Novigrad Hospitality"
+        
+        },
+        
+        "150": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "Spooked Mare"
+        
+        },
+        
+        "151": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Strangers in the Night *"
+        
+        },
+        
+        "152": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "A Warm Welcome *"
+        
+        },
+        
+        "153": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Race: The Great Erasmus Vegelbuld Memorial Derby"
+        
+        },
+        
+        "154": {
+    
+            "location": "Novigrad",
+            "type": "Side Quest",
+            "level": 26,
+            "name": "High Stakes"
+        
+        },
+        
+        "155": {
+    
+            "location": "Oxenfurt",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Price of Passage *"
+        
+        },
+        
+        "156": {
+    
+            "location": "Oxenfurt",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Most Truest of Basilisks *"
+        
+        },
+        
+        "157": {
+    
+            "location": "Oxenfurt",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "Redania's Most Wanted"
+        
+        },
+        
+        
+        
+        "158": {
+    
+            "location": "Oxenfurt",
+            "type": "Side Quest",
+            "level": 10,
+            "name": "Rough Neighborhood"
+        
+        },
+        
+        "159": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 24,
+            "name": "Abandoned Sawmill"
+        
+        },
+        
+        "160": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 15,
+            "name": "Armed Assault"
+        
+        },
+        
+        "161": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 15,
+            "name": "A Bard's Beloved"
+        
+        },
+        
+        "162": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Brave Fools Die Young"
+        
+        },
+        
+        "163": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Call of the Wild *"
+        
+        },
+        
+        "164": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 18,
+            "name": "Coronation"
+        
+        },
+        
+        "165": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 18,
+            "name": "Crime Punishment"
+        
+        },
+        
+        "166": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 15,
+            "name": "The Family Blade"
+        
+        },
+        
+        "167": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Farting Trolls *"
+        
+        },
+        
+        "168": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 24,
+            "name": "Finders Keepers"
+        
+        },
+        
+        "169": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 13,
+            "name": "From a Land Far, Far Away"
+        
+        },
+        
+        "170": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "A Hallowed Horn"
+        
+        },
+        
+        "171": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 21,
+            "name": "Hard Times"
+        
+        },
+        
+        "172": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 18,
+            "name": "King's Gambit"
+        
+        },
+        
+        "173": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "The Nithing"
+        
+        },
+        
+        "174": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 25,
+            "name": "Peace Disturbed"
+        
+        },
+        
+        "175": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 26,
+            "name": "The Sad Tale of the Grossbart Brothers"
+        
+        },
+        
+        "176": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 24,
+            "name": "Shock Therapy"
+        
+        },
+        
+        "177": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Siren's Call *"
+        
+        },
+        
+        "178": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "Stranger in a Strange Land"
+        
+        },
+        
+        "179": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "The Cave of Dreams"
+        
+        },
+        
+        "180": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 25,
+            "name": "Taken as a Lass"
+        
+        },
+        
+        "181": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 15,
+            "name": "An Unpaid Debt"
+        
+        },
+        
+        "182": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Whoe is Me *"
+        
+        },
+        
+        "183": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Worthy of Trust"
+        
+        },
+        
+        "184": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Yustianna Disturbed *"
+        
+        },
+        
+        "185": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 15,
+            "name": "For Fame and Glory"
+        
+        },
+        
+        "186": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 15,
+            "name": "In Wolf's Clothing"
+        
+        },
+        
+        "187": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 15,
+            "name": "The Last Wish"
+        
+        },
+        
+        "188": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 17,
+            "name": "The Lord of Undvik"
+        
+        },
+        
+        "189": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "Master of the Arena"
+        
+        },
+        
+        "190": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 11,
+            "name": "Fists of Fury: Champion of Champions"
+        
+        },
+        
+        "191": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 17,
+            "name": "Possession"
+        
+        },
+        
+        "192": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 13,
+            "name": "Free Spirit"
+        
+        },
+        
+        "193": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 16,
+            "name": "The Path of Warriors"
+        
+        },
+        
+        "194": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 30,
+            "name": "The Tower Outta Nowheres"
+        
+        },
+        
+        "195": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 30,
+            "name": "Fists of Fury: Skellige"
+        
+        },
+        
+        "196": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 24,
+            "name": "Practicum in Advanced Alchemy"
+        
+        },
+        
+        "197": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Heroes' Pursuit: Fyresdal"
+        
+        },
+        
+        "198": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Heroes' Pursuit: Kaer Trolde"
+        
+        },
+        
+        "199": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Heroes' Pursuit: For the Goddess' Glory"
+        
+        },
+        
+        "200": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Heroes' Pursuit: Fayrlund"
+        
+        },
+        
+        "201": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 12,
+            "name": "Flesh for Sale"
+        
+        },
+        
+        "202": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "The Four Faces of Hemdall *"
+        
+        },
+        
+        "203": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 19,
+            "name": "Iron Maiden"
+        
+        },
+        
+        "204": {
+    
+            "location": "Skellige Islands",
+            "type": "Side Quest",
+            "level": 14,
+            "name": "The Price of Honor"
+        
+        },
+        
+        "205": {
+    
+            "location": "Kaer Morhen",
+            "type": "Side Quest",
+            "level": 23,
+            "name": "Bastion"
+        
+        },
+        
+        "206": {
+    
+            "location": "Kaer Morhen",
+            "type": "Side Quest",
+            "level": 27,
+            "name": "Berengar's Blade"
+        
+        },
+        
+        "207": {
+    
+            "location": "Kaer Morhen",
+            "type": "Side Quest",
+            "level": 27,
+            "name": "Greenhouse Effect"
+        
+        },
+        
+        "208": {
+    
+            "location": "Kaer Morhen",
+            "type": "Side Quest",
+            "level": 26,
+            "name": "Monster Slayer"
+        
+        },
+        
+        "209": {
+    
+            "location": "Kaer Morhen",
+            "type": "Side Quest",
+            "level": "None",
+            "name": "Trail of Echoes *"
+        
+        },
+        
+        "210": {
+    
+            "location": "Kaer Morhen",
+            "type": "Side Quest",
+            "level": 30,
+            "name": "The Witchers' Forge"
+        
+        },
+        
+        "211": {
+    
+            "location": "White Orchard",
+            "type": "Witcher Contract",
+            "level": 2,
+            "name": "Devil by the Well"
+        
+        },
+        
+        "212": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 24,
+            "name": "The Griffin from the Highlands"
+        
+        },
+        
+        "213": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 10,
+            "name": "Jenny O' the Woods"
+        
+        },
+        
+        "214": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 10,
+            "name": "The Merry Widow"
+        
+        },
+        
+        "215": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 33,
+            "name": "The Missing Brother"
+        
+        },
+        
+        "216": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 20,
+            "name": "Mysterious Tracks"
+        
+        },
+        
+        "217": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 25,
+            "name": "The Beast of Honorton"
+        
+        },
+        
+        "218": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 22,
+            "name": "The Mystery of the Byways Murders"
+        
+        },
+        
+        "219": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 7,
+            "name": "Patrol Gone Missing"
+        
+        },
+        
+        "220": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 23,
+            "name": "Panthom of the Trade Route"
+        
+        },
+        
+        "221": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 8,
+            "name": "Shrieker"
+        
+        },
+        
+        "222": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 12,
+            "name": "Swamp Thing"
+        
+        },
+        
+        "223": {
+    
+            "location": "Velen",
+            "type": "Witcher Contract",
+            "level": 6,
+            "name": "Woodland Beast"
+        
+        },
+        
+        "224": {
+    
+            "location": "Novigrad",
+            "type": "Witcher Contract",
+            "level": 14,
+            "name": "The Apiarian Phantom"
+        
+        },
+        
+        "225": {
+    
+            "location": "Novigrad",
+            "type": "Witcher Contract",
+            "level": 35,
+            "name": "The Creature from Oxenfurt Forest"
+        
+        },
+        
+        "226": {
+    
+            "location": "Novigrad",
+            "type": "Witcher Contract",
+            "level": 15,
+            "name": "Deadly Delights"
+        
+        },
+        
+        "227": {
+    
+            "location": "Novigrad",
+            "type": "Witcher Contract",
+            "level": 24,
+            "name": "Doors Slamming Shut"
+        
+        },
+        
+        "228": {
+    
+            "location": "Novigrad",
+            "type": "Witcher Contract",
+            "level": 13,
+            "name": "An Elusive Thief"
+        
+        },
+        
+        "229": {
+    
+            "location": "Novigrad",
+            "type": "Witcher Contract",
+            "level": 25,
+            "name": "Lord of the Wood"
+        
+        },
+        
+        "230": {
+    
+            "location": "Novigrad",
+            "type": "Witcher Contract",
+            "level": 26,
+            "name": "The Oxenfurt Drunk"
+        
+        },
+        
+        "231": {
+    
+            "location": "Novigrad",
+            "type": "Witcher Contract",
+            "level": 16,
+            "name": "The White Lady"
+        
+        },
+        
+        "232": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 28,
+            "name": "Dragon"
+        
+        },
+        
+        "233": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 27,
+            "name": "Missing Miners"
+        
+        },
+        
+        "234": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 29,
+            "name": "Skellige's Most Wanted"
+        
+        },
+        
+        "235": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 22,
+            "name": "In the Heart of the Wood"
+        
+        },
+        
+        "236": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 19,
+            "name": "Here Comes the Groom"
+        
+        },
+        
+        "237": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 29,
+            "name": "Missing Son"
+        
+        },
+        
+        "238": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 18,
+            "name": "Muire D'Yaeblen"
+        
+        },
+        
+        "239": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 17,
+            "name": "The Panthom of Eldberg"
+        
+        },
+        
+        "240": {
+    
+            "location": "Skellige Islands",
+            "type": "Witcher Contract",
+            "level": 16,
+            "name": "Strange Beast"
+        
+        },
+        
+        "241": {
+    
+            "location": "White Orchard",
+            "type": "Treasure Hunt",
+            "level": 3,
+            "name": "Deserter Gold"
+        
+        },
+        
+        "242": {
+    
+            "location": "White Orchard",
+            "type": "Treasure Hunt",
+            "level": 2,
+            "name": "Dirty Funds"
+        
+        },
+        
+        "243": {
+    
+            "location": "White Orchard",
+            "type": "Treasure Hunt",
+            "level": 6,
+            "name": "Scavenger Hunt: Viper School Gear"
+        
+        },
+        
+        "244": {
+    
+            "location": "White Orchard",
+            "type": "Treasure Hunt",
+            "level": 4,
+            "name": "Temerian Valuables"
+        
+        },
+        
+        "245": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 17,
+            "name": "Scavenger Hunt: Cat School Gear"
+        
+        },
+        
+        "246": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 18,
+            "name": "A Costly Mistake"
+        
+        },
+        
+        "247": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 28,
+            "name": "A Plea Ignored"
+        
+        },
+        
+        "248": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 4,
+            "name": "An Unfortunate Turn of Events"
+        
+        },
+        
+        "249": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 20,
+            "name": "Battlefield Loot"
+        
+        },
+        
+        "250": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 18,
+            "name": "Blood Gold"
+        
+        },
+        
+        "251": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 13,
+            "name": "Coast of Wrecks"
+        
+        },
+        
+        "252": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 15,
+            "name": "Don't Play with the Gods"
+        
+        },
+        
+        "253": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 7,
+            "name": "Hidden from the World"
+        
+        },
+        
+        "254": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": "None",
+            "name": "Lost Goods"
+        
+        },
+        
+        "255": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": "None",
+            "name": "Out of the Frying Pan, Into the Fire"
+        
+        },
+        
+        "256": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 4,
+            "name": "Queen Zuelyka's Treasure"
+        
+        },
+        
+        "257": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 23,
+            "name": "Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 2"
+        
+        },
+        
+        "258": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 11,
+            "name": "Scavenger Hunt: Griffin School Gear"
+        
+        },
+        
+        "259": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 18,
+            "name": "Scavenger Hunt: Griffin School Gear Upgrade Diagrams - Part 2"
+        
+        },
+        
+        "260": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 4,
+            "name": "Sunken Chest"
+        
+        },
+        
+        "261": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 4,
+            "name": "Sunken Treasure"
+        
+        },
+        
+        "262": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 9,
+            "name": "The Dead Has No Defense"
+        
+        },
+        
+        "263": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 12,
+            "name": "The Thing Men Do For Coin..."
+        
+        },
+        
+        "264": {
+    
+            "location": "Velen",
+            "type": "Treasure Hunt",
+            "level": 18,
+            "name": "Tough Luck"
+        
+        },
+        
+        "265": {
+    
+            "location": "Novigrad",
+            "type": "Treasure Hunt",
+            "level": 32,
+            "name": "Dowry"
+        
+        },
+        
+        "266": {
+    
+            "location": "Novigrad",
+            "type": "Treasure Hunt",
+            "level": 23,
+            "name": "Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 1"
+        
+        },
+        
+        "267": {
+    
+            "location": "Novigrad",
+            "type": "Treasure Hunt",
+            "level": 29,
+            "name": "Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 3"
+        
+        },
+        
+        "268": {
+    
+            "location": "Novigrad",
+            "type": "Treasure Hunt",
+            "level": 18,
+            "name": "Scavenger Hunt: Griffin School Gear Upgrade Diagrams - Part 1"
+        
+        },
+        
+        "269": {
+    
+            "location": "Novigrad",
+            "type": "Treasure Hunt",
+            "level": 34,
+            "name": "Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 5"
+        
+        },
+        
+        "270": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 13,
+            "name": "Nilfgaardian Treasure"
+        
+        },
+        
+        "271": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 30,
+            "name": "Scavenger Hunt: Bear School Gear Upgrade Diagrams - Part 3"
+        
+        },
+        
+        "272": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 34,
+            "name": "Scavenger Hunt: Bear School Gear Upgrade Diagrams - Part 4"
+        
+        },
+        
+        "273": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 26,
+            "name": "Scavenger Hunt: Griffin School Gear Upgrade Diagrams - Part 3"
+        
+        },
+        
+        "274": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 13,
+            "name": "Family Fortune"
+        
+        },
+        
+        "275": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 4,
+            "name": "Freya Be Praised!"
+        
+        },
+        
+        "276": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 31,
+            "name": "Hidden in Depths"
+        
+        },
+        
+        "277": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 14,
+            "name": "Inheritance"
+        
+        },
+        
+        "278": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 13,
+            "name": "Ironsides' Treasure"
+        
+        },
+        
+        "279": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 10,
+            "name": "Not Only Eagles DAre"
+        
+        },
+        
+        "280": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 13,
+            "name": "Pearls of the Coast"
+        
+        },
+        
+        "281": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 13,
+            "name": "Precious Haul"
+        
+        },
+        
+        "282": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 18,
+            "name": "Ruin, Hidden Treasure, You Know..."
+        
+        },
+        
+        "283": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 20,
+            "name": "Scavenger Hunt: Bear School Gear"
+        
+        },
+        
+        "284": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 30,
+            "name": "Scavenger Hunt: Bear School Gear Upgrade Diagrams - Part 1"
+        
+        },
+        
+        "285": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 12,
+            "name": "Scavenger Hunt: Bear School Gear Upgrade Diagrams - Part 2"
+        
+        },
+        
+        "286": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 34,
+            "name": "Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 4"
+        
+        },
+        
+        "287": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 34,
+            "name": "Scavenger Hunt: Griffin School Gear Upgrade Diagrams - Part 4"
+        
+        },
+        
+        "288": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 29,
+            "name": "Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 3"
+        
+        },
+        
+        "289": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 34,
+            "name": "Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 6"
+        
+        },
+        
+        "290": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 13,
+            "name": "Shortcut"
+        
+        },
+        
+        "291": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 48,
+            "name": "Unlucky's Treasure"
+        
+        },
+        
+        "292": {
+    
+            "location": "Skellige Islands",
+            "type": "Treasure Hunt",
+            "level": 12,
+            "name": "X Marks the Spot"
+        
+        },
+        
+        "293": {
+    
+            "location": "Kaer Morhen",
+            "type": "Treasure Hunt",
+            "level": 14,
+            "name": "Scavenger Hunt: Wolf School Gear"
+        
+        },
+        
+        "294": {
+    
+            "location": "Kaer Morhen",
+            "type": "Treasure Hunt",
+            "level": 21,
+            "name": "Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 1"
+        
+        },
+        
+        "295": {
+    
+            "location": "Kaer Morhen",
+            "type": "Treasure Hunt",
+            "level": 21,
+            "name": "Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 2"
+        
+        },
+        
+        "296": {
+    
+            "location": "Kaer Morhen",
+            "type": "Treasure Hunt",
+            "level": 29,
+            "name": "Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 4"
+        
+        }
+ 
+    }
